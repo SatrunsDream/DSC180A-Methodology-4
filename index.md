@@ -1,6 +1,3 @@
-title: "Quarter 2 Project Brainstorm"
----
-
 # Sardor Sobirov  
 [ssobirov@ucsd.edu](mailto:ssobirov@ucsd.edu)
 
